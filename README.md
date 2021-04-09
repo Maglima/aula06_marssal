@@ -6,6 +6,7 @@ git config --global core.editor code
 git config --global --edit
 
 
+
 //template do config
 
 [difftool "sourcetree"]
